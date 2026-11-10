@@ -1,0 +1,5 @@
+github "sindresorhus/LaunchAtLogin"
+github "sindresorhus/Defaults"
+github "sindresorhus/Preferences"
+github "shpakovski/MASShortcut"
+github "sparkle-project/Sparkle"

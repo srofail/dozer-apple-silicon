@@ -1,0 +1,22 @@
+build/
+.build/
+Releases/
+Dozer.xcodeproj/
+Credentials/
+Carthage/
+
+# Fastlane
+fastlane/
+fastlaneLegacy/
+Gemfile
+Gemfile.lock
+
+# Swiftgen
+Dozer/Other/Generated/
+
+# macOS and local developer state
+.DS_Store
+**/xcuserdata/
+*.xcuserstate
+__pycache__/
+*.pyc
