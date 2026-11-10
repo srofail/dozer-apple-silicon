@@ -2,11 +2,11 @@
 
 Native universal macOS application for Apple silicon (`arm64`) and Intel (`x86_64`). Requires macOS 12 or later. Based on the Mortennn/Dozer source (4.2.0, build 30), retaining the original AppKit preference panes, assets, settings keys, and interactions.
 
-[**Download Dozer Universal for macOS**](https://github.com/srofail/dozer-apple-silicon/raw/refs/heads/main/dist/Dozer-Universal.zip) · [Verification notes](VERIFICATION.md) · [Checksums](dist/SHA256SUMS.txt)
+[Releases](https://github.com/srofail/dozer-apple-silicon/releases/latest) · [Verification notes](VERIFICATION.md)
 
 ## Install and use
 
-Download and unzip `Dozer-Universal.zip`. Quit any running Dozer instance, then copy `Dozer.app` to Applications and open it. The app runs in the menu bar. Hold Command and drag icons to arrange them. Click either large Dozer dot to hide/show icons left of the left dot. Right-click a dot to open Preferences. Enable the smaller third dot for a second group, revealed with Option-click. Reopening the app from Finder reveals all groups if needed.
+Get the app from [Releases](https://github.com/srofail/dozer-apple-silicon/releases/latest) and extract the archive. Quit any running Dozer instance, then copy `Dozer.app` to Applications and open it. The app runs in the menu bar. Hold Command and drag icons to arrange them. Click either large Dozer dot to hide/show icons left of the left dot. Right-click a dot to open Preferences. Enable the smaller third dot for a second group, revealed with Option-click. Reopening the app from Finder reveals all groups if needed.
 
 All original settings are present: launch at login, automatic update checking, hide at launch, auto-hide after 3/5/10/15/20/30 seconds, hide both Dozer icons when a shortcut is configured, optional second group, use the full screen width, dot size 4–10 px, item width 10–40 px, and a global keyboard shortcut. The original preference domain `com.mortennn.Dozer` is preserved so existing settings carry over.
 

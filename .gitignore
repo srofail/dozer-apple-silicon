@@ -20,3 +20,6 @@ Dozer/Other/Generated/
 *.xcuserstate
 __pycache__/
 *.pyc
+
+# Distribute packaged apps through GitHub Releases
+dist/
